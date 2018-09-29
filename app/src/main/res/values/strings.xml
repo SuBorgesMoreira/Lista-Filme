@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android_firebase</string>
+    <string name="user">Usuario</string>
+    <string name="password">Senha</string>
+    <string name="acess">/Acessar</string>
+    <string name="Acessar">acess</string>
+    <string name="create">Criar</string>
+</resources>

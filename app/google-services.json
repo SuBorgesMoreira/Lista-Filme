@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "845645579924",
+    "firebase_url": "https://android-lista-filme.firebaseio.com",
+    "project_id": "android-lista-filme",
+    "storage_bucket": "android-lista-filme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845645579924:android:72c7067de3351541",
+        "android_client_info": {
+          "package_name": "com.android.aluno.android_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845645579924-ota7o6upqqf0fbjnjbc1lgb23n4h864r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2cNFTfaQXggRiU5voVyuKAQ2bNUFOd_U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
